@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mir4/static/css/main.073c9b0a.css",
+    "main.js": "/mir4/static/js/main.3f1fb963.js",
+    "static/js/787.839bc3d9.chunk.js": "/mir4/static/js/787.839bc3d9.chunk.js",
+    "static/media/logo.svg": "/mir4/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mir4/index.html",
+    "main.073c9b0a.css.map": "/mir4/static/css/main.073c9b0a.css.map",
+    "main.3f1fb963.js.map": "/mir4/static/js/main.3f1fb963.js.map",
+    "787.839bc3d9.chunk.js.map": "/mir4/static/js/787.839bc3d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3f1fb963.js"
+  ]
+}
